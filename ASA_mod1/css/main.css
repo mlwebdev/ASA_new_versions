@@ -1,0 +1,21 @@
+nav {
+  background-color: navy;
+}
+.makeBold {
+  font-weight: bolder;
+}
+.em {
+  font-style: italic;
+}
+
+.space {
+  margin: 0 10px 10px 0;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+i.material-icons {
+  font-size: 15px;
+}
